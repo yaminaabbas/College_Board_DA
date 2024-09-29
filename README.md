@@ -1,4 +1,4 @@
-## Conseil d'administration des Collèges (College Board)
+## College Board
 
 Énoncé du problème :
 
